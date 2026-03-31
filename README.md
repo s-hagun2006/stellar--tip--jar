@@ -1,4 +1,6 @@
 # ✦ Stellar Tip Jar — 
+## 🌐 Live Demo
+👉 https://s-hagun2006.github.io/stellar--tip--jar/
 
 A web-based dApp that lets you **send XLM tips with a message** on the Stellar blockchain.
 Built for the **Stellar Journey to Mastery Builder Challenge** 
