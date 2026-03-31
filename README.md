@@ -1,7 +1,7 @@
-# ✦ Stellar Tip Jar — Complete Beginner's Guide
+# ✦ Stellar Tip Jar — 
 
 A web-based dApp that lets you **send XLM tips with a message** on the Stellar blockchain.
-Built for the **Stellar Journey to Mastery Builder Challenge** (White Belt / Yellow Belt level).
+Built for the **Stellar Journey to Mastery Builder Challenge** 
 
 ---
 
